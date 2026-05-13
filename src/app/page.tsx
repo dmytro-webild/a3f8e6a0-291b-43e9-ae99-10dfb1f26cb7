@@ -93,7 +93,6 @@ export default function LandingPage() {
       description="Bij Harun The Barber knippen we niet alleen haar; we creëren een ervaring. Sinds het begin zijn we toegewijd aan het combineren van traditionele kniptechnieken met moderne precisie."
       subdescription="Elke knipbeurt is persoonlijk, zodat onze klanten niet alleen goed uitzien, maar zich ook op hun best voelen. Wij geloven in de kracht van een signature look."
       icon={Scissors}
-      imageSrc="http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
