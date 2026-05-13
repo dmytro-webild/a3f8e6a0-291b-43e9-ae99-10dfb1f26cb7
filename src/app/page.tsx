@@ -57,7 +57,7 @@ export default function LandingPage() {
         {
           text: "Kom vandaag nog langs",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-bearded-man-getting-haircut-by-hairdresser-while-sitting-chair-barbershop-barber-soul_627829-6328.jpg"
+      imageSrc="https://img.freepik.com/free-photo/handsome-man-getting-haircut-barbershop_23-2148506245.jpg"
       imageAlt="Luxe kapperservaring"
       mediaAnimation="slide-up"
       avatars={[
