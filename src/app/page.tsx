@@ -70,7 +70,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=1"
       imageAlt="Luxury Barbershop Experience"
       mediaAnimation="slide-up"
       avatars={[
@@ -128,7 +128,7 @@ export default function LandingPage() {
       description="At Harun The Barber, we don't just cut hair; we curate an experience. Since our inception, we have been dedicated to blending old-school traditional grooming techniques with modern style precision."
       subdescription="Every cut is personal, ensuring that our clients walk out not just looking good, but feeling their absolute best. We believe in the power of a signature look."
       icon={Scissors}
-      imageSrc="http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -141,17 +141,17 @@ export default function LandingPage() {
         {
           title: "Precision Fades",
           description: "Expertly executed skin fades and tapers using the highest quality tools.",
-          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=1",
         },
         {
           title: "Signature Beards",
           description: "Sculpted beard grooming with hot towels and precision line work.",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=1",
         },
         {
           title: "Walk-In Ready",
           description: "Convenient, consistent service that respects your time and needs.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=1",
         },
       ]}
       title="The Premium Standard"
@@ -249,7 +249,7 @@ export default function LandingPage() {
           quote: "Reliable precision every time. I finally stopped searching for a good barber.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/i-owe-my-appearance-daily-hygiene_329181-4760.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=2",
           imageAlt: "satisfied customer haircut",
         },
         {
@@ -260,7 +260,7 @@ export default function LandingPage() {
           quote: "The atmosphere is great and the cuts are sharp. Best fade in Limburg.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background_158538-9659.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg?_wi=2",
           imageAlt: "satisfied customer haircut",
         },
         {
@@ -271,7 +271,7 @@ export default function LandingPage() {
           quote: "Friendly with my kids, stress-free environment. Highly recommended for families.",
           tag: "Father",
           avatarSrc: "http://img.b2bpic.net/free-photo/hairdresser-straighten-beard-with-razor-hairbrush-senior-client_23-2148181919.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=2",
           imageAlt: "satisfied customer haircut",
         },
         {
@@ -282,7 +282,7 @@ export default function LandingPage() {
           quote: "Craftsmanship at its best. Honest service and always consistent.",
           tag: "Loyal",
           avatarSrc: "http://img.b2bpic.net/free-photo/handsome-fashion-businessman-model-dressed-elegant-blue-suit-posing-street_158538-14362.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=2",
           imageAlt: "satisfied customer haircut",
         },
         {
@@ -293,7 +293,7 @@ export default function LandingPage() {
           quote: "No waiting, no friction. Just a damn good haircut every time.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/side-view-senior-man-laughing_23-2151203948.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=2",
           imageAlt: "satisfied customer haircut",
         },
       ]}
