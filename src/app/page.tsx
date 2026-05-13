@@ -204,7 +204,7 @@ export default function LandingPage() {
       <ContactSplitForm
       useInvertedBackground={false}
       title="Bezoek ons vandaag"
-      description="Kom langs in onze shop voor je kenmerkende look. Geen afspraak nodig."
+      description="Kom langs in onze shop voor je kenmerkende look. Geen afspraak nodig. The Barber, Schuurhoven 3, 3740."
       inputs={[
         {
           name: "name",          type: "text",          placeholder: "Jouw Naam"},
