@@ -188,9 +188,11 @@ export default function LandingPage() {
         {
           id: "1",          title: "Moet ik een afspraak maken?",          content: "Wij werken voornamelijk op basis van inloop, dus je kunt altijd langskomen."},
         {
-          id: "2",          title: "Welke diensten bieden jullie aan?",          content: "Wij zijn gespecialiseerd in precisie knippen, baard verzorging en hot towel behandelingen."},
+          id: "2",          title: "Wat zijn jullie openingstijden?",          content: "Maandag: gesloten, Dinsdag t/m Donderdag: 10:00-18:30, Vrijdag: 09:00-14:00 & 15:00-18:30, Zaterdag: 09:00-18:30, Zondag: 10:00-15:00"},
         {
-          id: "3",          title: "Zijn kinderen welkom?",          content: "Absoluut, wij verwelkomen families graag in de shop en bieden rustige knipbeurten voor kinderen."},
+          id: "3",          title: "Welke diensten bieden jullie aan?",          content: "Wij zijn gespecialiseerd in precisie knippen, baard verzorging en hot towel behandelingen."},
+        {
+          id: "4",          title: "Zijn kinderen welkom?",          content: "Absoluut, wij verwelkomen families graag in de shop en bieden rustige knipbeurten voor kinderen."},
       ]}
       title="Veelgestelde vragen"
       description="Alles wat je moet weten over je bezoek."
