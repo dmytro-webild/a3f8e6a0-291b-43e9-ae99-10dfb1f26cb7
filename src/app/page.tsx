@@ -239,6 +239,7 @@ export default function LandingPage() {
         },
       ]}
       logoText="Harun The Barber"
+      copyrightText="© 2025"
     />
   </div>
       </ReactLenis>
