@@ -33,11 +33,11 @@ export default function LandingPage() {
       <NavbarLayoutFloatingOverlay
       navItems={[
         {
-          name: "About",          id: "about"},
+          name: "Over ons",          id: "about"},
         {
-          name: "Services",          id: "features"},
+          name: "Diensten",          id: "features"},
         {
-          name: "Pricing",          id: "pricing"},
+          name: "Prijzen",          id: "pricing"},
         {
           name: "Team",          id: "team"},
         {
@@ -51,14 +51,14 @@ export default function LandingPage() {
       <HeroSplit
       background={{
         variant: "gradient-bars"}}
-      title="More than a haircut Your signature look"
-      description="Premium barber experience in Limburg Precision fades, perfect beards, and craftsmanship that keeps customers coming back for years—no appointment needed"
+      title="Meer dan alleen een knipbeurt, jouw kenmerkende look"
+      description="Premium kapperservaring in Limburg. Precisie fades, perfecte baarden en vakmanschap waar klanten jarenlang voor terugkomen—zonder afspraak."
       buttons={[
         {
-          text: "Walk In Today",          href: "#contact"},
+          text: "Loop vandaag binnen",          href: "#contact"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=1"
-      imageAlt="Luxury Barbershop Experience"
+      imageAlt="Luxe kapperservaring"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -74,15 +74,15 @@ export default function LandingPage() {
       ]}
       marqueeItems={[
         {
-          type: "text",          text: "Precision Fades"},
+          type: "text",          text: "Precisie Fades"},
         {
           type: "text",          text: "Hot Towel Service"},
         {
           type: "text",          text: "Signature Grooming"},
         {
-          type: "text",          text: "Walk-In Welcome"},
+          type: "text",          text: "Loop zo binnen"},
         {
-          type: "text",          text: "Master Barbers"},
+          type: "text",          text: "Meester Barbers"},
       ]}
     />
   </div>
@@ -90,10 +90,10 @@ export default function LandingPage() {
   <div id="about" data-section="about">
       <TestimonialAboutCard
       useInvertedBackground={false}
-      tag="Our Story"
-      title="Precision Craftsmanship at Heart"
-      description="At Harun The Barber, we don't just cut hair; we curate an experience. Since our inception, we have been dedicated to blending old-school traditional grooming techniques with modern style precision."
-      subdescription="Every cut is personal, ensuring that our clients walk out not just looking good, but feeling their absolute best. We believe in the power of a signature look."
+      tag="Ons Verhaal"
+      title="Vakmanschap met passie"
+      description="Bij Harun The Barber knippen we niet alleen haar; we creëren een ervaring. Sinds het begin zijn we toegewijd aan het combineren van traditionele kniptechnieken met moderne precisie."
+      subdescription="Elke knipbeurt is persoonlijk, zodat onze klanten niet alleen goed uitzien, maar zich ook op hun best voelen. Wij geloven in de kracht van een signature look."
       icon={Scissors}
       imageSrc="http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg?_wi=1"
       mediaAnimation="slide-up"
@@ -106,14 +106,14 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Precision Fades",          description: "Expertly executed skin fades and tapers using the highest quality tools.",          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=1"},
+          title: "Precisie Fades",          description: "Expertly uitgevoerde skin fades en tapers met hoogwaardig gereedschap.",          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=1"},
         {
-          title: "Signature Beards",          description: "Sculpted beard grooming with hot towels and precision line work.",          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=1"},
+          title: "Signature Baarden",          description: "Gevormde baardverzorging met hot towels en strakke lijnen.",          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=1"},
         {
-          title: "Walk-In Ready",          description: "Convenient, consistent service that respects your time and needs.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=1"},
+          title: "Loop zo binnen",          description: "Handige, consistente service die uw tijd respecteert.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=1"},
       ]}
-      title="The Premium Standard"
-      description="Experience grooming defined by meticulous attention to detail and consistent, reliable quality."
+      title="De Premium Standaard"
+      description="Ervaar verzorging gedefinieerd door nauwkeurige details en consistente kwaliteit."
     />
   </div>
 
@@ -124,28 +124,28 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         {
-          id: "cut",          badge: "Popular",          price: "€35",          subtitle: "Precision Cut",          features: [
-            "Consultation",            "Detailed Cut",            "Style Finish"],
+          id: "cut",          badge: "Populair",          price: "€35",          subtitle: "Precisie Knippen",          features: [
+            "Consultatie",            "Gedetailleerde Knipbeurt",            "Styling Finish"],
         },
         {
-          id: "beard",          badge: "Add-on",          price: "€25",          subtitle: "Beard Sculpt",          features: [
-            "Hot Towel",            "Edge Sculpting",            "Conditioning"],
+          id: "beard",          badge: "Extra",          price: "€25",          subtitle: "Baard Styling",          features: [
+            "Hot Towel",            "Strakke Lijnen",            "Conditioning"],
         },
         {
-          id: "combo",          badge: "Best Value",          price: "€55",          subtitle: "The Full Treatment",          features: [
-            "Precision Cut",            "Beard Sculpt",            "Styling Advice"],
+          id: "combo",          badge: "Beste Waarde",          price: "€55",          subtitle: "De Volledige Behandeling",          features: [
+            "Precisie Knipbeurt",            "Baard Styling",            "Styling Advies"],
         },
       ]}
-      title="Grooming Investment"
-      description="Transparent pricing for high-value results."
+      title="Investering in jezelf"
+      description="Transparante prijzen voor een hoogwaardig resultaat."
     />
   </div>
 
   <div id="team" data-section="team">
       <TeamCardTen
       useInvertedBackground={false}
-      title="The Master Barbers"
-      tag="Meet The Crew"
+      title="De Meester Barbers"
+      tag="Ontmoet het team"
       membersAnimation="slide-up"
       members={[
         {
@@ -167,18 +167,18 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Markus",          date: "Jan 2025",          title: "Professional",          quote: "Reliable precision every time. I finally stopped searching for a good barber.",          tag: "Regular",          avatarSrc: "http://img.b2bpic.net/free-photo/i-owe-my-appearance-daily-hygiene_329181-4760.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=2",          imageAlt: "satisfied customer haircut"},
+          id: "1",          name: "Markus",          date: "Jan 2025",          title: "Professional",          quote: "Altijd consistente precisie. Ik ben eindelijk klaar met zoeken naar een goede kapper.",          tag: "Regelmatig",          avatarSrc: "http://img.b2bpic.net/free-photo/i-owe-my-appearance-daily-hygiene_329181-4760.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=2",          imageAlt: "tevreden klant"},
         {
-          id: "2",          name: "Lukas",          date: "Dec 2024",          title: "Creative",          quote: "The atmosphere is great and the cuts are sharp. Best fade in Limburg.",          tag: "Regular",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background_158538-9659.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg?_wi=2",          imageAlt: "satisfied customer haircut"},
+          id: "2",          name: "Lukas",          date: "Dec 2024",          title: "Creatief",          quote: "De sfeer is geweldig en de coupes zijn strak. De beste fade in Limburg.",          tag: "Regelmatig",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background_158538-9659.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/poodle-scenes-vanity-setting_23-2151987174.jpg?_wi=2",          imageAlt: "tevreden klant"},
         {
-          id: "3",          name: "David",          date: "Nov 2024",          title: "Father",          quote: "Friendly with my kids, stress-free environment. Highly recommended for families.",          tag: "Father",          avatarSrc: "http://img.b2bpic.net/free-photo/hairdresser-straighten-beard-with-razor-hairbrush-senior-client_23-2148181919.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=2",          imageAlt: "satisfied customer haircut"},
+          id: "3",          name: "David",          date: "Nov 2024",          title: "Vader",          quote: "Vriendelijk voor mijn kinderen, stressvrije omgeving. Een aanrader voor gezinnen.",          tag: "Vader",          avatarSrc: "http://img.b2bpic.net/free-photo/hairdresser-straighten-beard-with-razor-hairbrush-senior-client_23-2148181919.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=2",          imageAlt: "tevreden klant"},
         {
-          id: "4",          name: "Peter",          date: "Oct 2024",          title: "Business Owner",          quote: "Craftsmanship at its best. Honest service and always consistent.",          tag: "Loyal",          avatarSrc: "http://img.b2bpic.net/free-photo/handsome-fashion-businessman-model-dressed-elegant-blue-suit-posing-street_158538-14362.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=2",          imageAlt: "satisfied customer haircut"},
+          id: "4",          name: "Peter",          date: "Oct 2024",          title: "Ondernemer",          quote: "Vakmanschap op zijn best. Eerlijke service en altijd constant.",          tag: "Loyal",          avatarSrc: "http://img.b2bpic.net/free-photo/handsome-fashion-businessman-model-dressed-elegant-blue-suit-posing-street_158538-14362.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=2",          imageAlt: "tevreden klant"},
         {
-          id: "5",          name: "Thomas",          date: "Sep 2024",          title: "Professional",          quote: "No waiting, no friction. Just a damn good haircut every time.",          tag: "Regular",          avatarSrc: "http://img.b2bpic.net/free-photo/side-view-senior-man-laughing_23-2151203948.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=2",          imageAlt: "satisfied customer haircut"},
+          id: "5",          name: "Thomas",          date: "Sep 2024",          title: "Professional",          quote: "Niet wachten, geen gedoe. Gewoon een strakke coupe elke keer weer.",          tag: "Regelmatig",          avatarSrc: "http://img.b2bpic.net/free-photo/side-view-senior-man-laughing_23-2151203948.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=2",          imageAlt: "tevreden klant"},
       ]}
-      title="Words From Our Regulars"
-      description="The foundation of our reputation is your consistent satisfaction."
+      title="Woorden van onze klanten"
+      description="De basis van onze reputatie is jouw constante tevredenheid."
     />
   </div>
 
@@ -188,14 +188,14 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         {
-          id: "1",          title: "Do I need an appointment?",          content: "We operate primarily on a walk-in basis, so you can drop by anytime."},
+          id: "1",          title: "Moet ik een afspraak maken?",          content: "Wij werken voornamelijk op basis van inloop, dus je kunt altijd langskomen."},
         {
-          id: "2",          title: "What services do you offer?",          content: "We specialize in precision cuts, beard shaping, and hot towel treatments."},
+          id: "2",          title: "Welke diensten bieden jullie aan?",          content: "Wij zijn gespecialiseerd in precisie knippen, baard verzorging en hot towel behandelingen."},
         {
-          id: "3",          title: "Are children welcome?",          content: "Absolutely, we love having families in the shop and offer gentle cuts for kids."},
+          id: "3",          title: "Zijn kinderen welkom?",          content: "Absoluut, wij verwelkomen families graag in de shop en bieden rustige knipbeurten voor kinderen."},
       ]}
-      title="Frequently Asked Questions"
-      description="Everything you need to know about your visit."
+      title="Veelgestelde vragen"
+      description="Alles wat je moet weten over je bezoek."
       faqsAnimation="slide-up"
     />
   </div>
@@ -222,9 +222,9 @@ export default function LandingPage() {
         {
           title: "Menu",          items: [
             {
-              label: "Services",              href: "#features"},
+              label: "Diensten",              href: "#features"},
             {
-              label: "Pricing",              href: "#pricing"},
+              label: "Prijzen",              href: "#pricing"},
             {
               label: "Team",              href: "#team"},
           ],
@@ -232,9 +232,9 @@ export default function LandingPage() {
         {
           title: "Contact",          items: [
             {
-              label: "Location",              href: "#contact"},
+              label: "Locatie",              href: "#contact"},
             {
-              label: "Walk-In",              href: "#"},
+              label: "Inloop",              href: "#"},
           ],
         },
       ]}
