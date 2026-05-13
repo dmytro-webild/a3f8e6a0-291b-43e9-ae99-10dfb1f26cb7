@@ -57,7 +57,7 @@ export default function LandingPage() {
         {
           text: "Kom vandaag nog langs",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=1"
+      imageSrc="http://img.b2bpic.net/free-photo/young-bearded-man-getting-haircut-by-hairdresser-while-sitting-chair-barbershop-barber-soul_627829-6328.jpg"
       imageAlt="Luxe kapperservaring"
       mediaAnimation="slide-up"
       avatars={[
@@ -94,7 +94,7 @@ export default function LandingPage() {
       subdescription="Elke knipbeurt is persoonlijk, zodat onze klanten niet alleen goed uitzien, maar zich ook op hun best voelen. Wij geloven in de kracht van een signature look."
       icon={Scissors}
       mediaAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg"
     />
   </div>
 
@@ -165,7 +165,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Markus",          date: "Jan 2025",          title: "Professional",          quote: "Altijd consistente precisie. Ik ben eindelijk klaar met zoeken naar een goede kapper.",          tag: "Regelmatig",          avatarSrc: "http://img.b2bpic.net/free-photo/i-owe-my-appearance-daily-hygiene_329181-4760.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=2",          imageAlt: "tevreden klant"},
+          id: "1",          name: "Markus",          date: "Jan 2025",          title: "Professional",          quote: "Altijd consistente precisie. Ik ben eindelijk klaar met zoeken naar een goede kapper.",          tag: "Regelmatig",          avatarSrc: "http://img.b2bpic.net/free-photo/i-owe-my-appearance-daily-hygiene_329181-4760.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/hairstyle-supplies_1157-7704.jpg?_wi=2",          imageAlt: "tevreden klant"},
         {
           id: "2",          name: "Lukas",          date: "Dec 2024",          title: "Creatief",          quote: "De sfeer is geweldig en de coupes zijn strak. De beste fade in Limburg.",          tag: "Regelmatig",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background_158538-9659.jpg"},
         {
