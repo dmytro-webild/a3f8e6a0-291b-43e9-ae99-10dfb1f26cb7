@@ -69,8 +69,6 @@ export default function LandingPage() {
           src: "http://img.b2bpic.net/free-photo/mid-section-barber-wiping-clients-face-with-hot-towel_107420-94798.jpg",          alt: "Mid section on barber wiping clients face with hot towel"},
         {
           src: "http://img.b2bpic.net/free-photo/young-bearded-man-getting-haircut-by-hairdresser-while-sitting-chair-barbershop-barber-soul_627829-6328.jpg",          alt: "Young bearded man getting haircut by hairdresser while sitting in chair at barbershop Barber soul"},
-        {
-          src: "http://img.b2bpic.net/free-photo/crop-person-patting-curly-puppy_23-2148144486.jpg",          alt: "Crop person patting curly puppy"},
       ]}
       marqueeItems={[
         {
