@@ -94,6 +94,7 @@ export default function LandingPage() {
       subdescription="Elke knipbeurt is persoonlijk, zodat onze klanten niet alleen goed uitzien, maar zich ook op hun best voelen. Wij geloven in de kracht van een signature look."
       icon={Scissors}
       mediaAnimation="slide-up"
+      imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg"
     />
   </div>
 
