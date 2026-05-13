@@ -149,7 +149,7 @@ export default function LandingPage() {
         {
           id: "2",          name: "Mehmet",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-male-who-himself-shaving-while-sitting-barber-chair-hairdressing-salon_613910-18649.jpg"},
         {
-          id: "3",          name: "Elias",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pensive-man-with-receive-moustache-beard-trimming-procedure-barbershop_613910-15033.jpg"},
+          id: "3",          name: "Elias",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-with-no-tattoos-trimming-beard-barbershop_613910-15033.jpg"},
         {
           id: "4",          name: "Kenan",          imageSrc: "http://img.b2bpic.net/free-photo/pleased-slavic-middle-aged-male-barber-uniform-holding-barber-tools-isolated-purple-wall_141793-91610.jpg"},
       ]}
