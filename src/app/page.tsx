@@ -147,8 +147,6 @@ export default function LandingPage() {
       membersAnimation="slide-up"
       members={[
         {
-          id: "1",          name: "Harun",          imageSrc: "http://img.b2bpic.net/free-photo/man-with-ginger-beard-apron-gloves-holding-knife_273609-20983.jpg"},
-        {
           id: "2",          name: "Mehmet",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-male-who-himself-shaving-while-sitting-barber-chair-hairdressing-salon_613910-18649.jpg"},
         {
           id: "3",          name: "Elias",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pensive-man-with-receive-moustache-beard-trimming-procedure-barbershop_613910-15033.jpg"},
