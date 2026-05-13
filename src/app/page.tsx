@@ -55,7 +55,7 @@ export default function LandingPage() {
       description="Premium kapperservaring in Limburg. Precisie fades, perfecte baarden en vakmanschap waar klanten jarenlang voor terugkomen—zonder afspraak."
       buttons={[
         {
-          text: "Loop vandaag binnen",          href: "#contact"},
+          text: "Kom vandaag nog langs",          href: "#contact"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/pretty-barber-girl-cutting-hair_624325-3068.jpg?_wi=1"
       imageAlt="Luxe kapperservaring"
