@@ -108,7 +108,7 @@ export default function LandingPage() {
         {
           title: "Signature Baarden",          description: "Gevormde baardverzorging met hot towels en strakke lijnen.",          imageSrc: "http://img.b2bpic.net/free-photo/man-beard-after-grooming-close-up_23-2148353466.jpg?_wi=1"},
         {
-          title: "Loop zo binnen",          description: "Handige, consistente service die uw tijd respecteert.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-men-bachelor-party_23-2149275459.jpg?_wi=1"},
+          title: "Loop zo binnen",          description: "Handige, consistente service die uw tijd respecteert.",          imageSrc: "https://img.freepik.com/free-photo/barbershop-interior-with-chairs-tools_23-2148466635.jpg?_wi=1"},
       ]}
       title="De Premium Standaard"
       description="Ervaar verzorging gedefinieerd door nauwkeurige details en consistente kwaliteit."
