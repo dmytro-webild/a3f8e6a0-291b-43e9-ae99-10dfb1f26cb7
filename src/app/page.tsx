@@ -147,6 +147,8 @@ export default function LandingPage() {
       membersAnimation="slide-up"
       members={[
         {
+          id: "1",          name: "Harun",          imageSrc: "https://img.freepik.com/free-photo/portrait-barber-smiling-looking-camera_23-2148506245.jpg"},
+        {
           id: "2",          name: "Mehmet",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-male-who-himself-shaving-while-sitting-barber-chair-hairdressing-salon_613910-18649.jpg"},
         {
           id: "3",          name: "Elias",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-man-with-no-tattoos-trimming-beard-barbershop_613910-15033.jpg"},
