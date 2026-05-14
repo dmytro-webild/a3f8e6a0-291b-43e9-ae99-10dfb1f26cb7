@@ -44,8 +44,8 @@ export default function LandingPage() {
   <div id="hero" data-section="hero">
       <HeroSplit
       background={{ variant: "gradient-bars" }}
-      title="Meer dan alleen een knipbeurt, jouw kenmerkende look"
-      description="Premium kapperservaring in Limburg. Precisie fades, perfecte baarden en vakmanschap waar klanten jarenlang voor terugkomen—zonder afspraak."
+      title="Meer dan alleen een knipbeurt  jouw kenmerkende look"
+      description="Premium kapperservaring in Limburg. Precisie fades perfecte baarden en vakmanschap waar klanten jarenlang voor terugkomen—zonder afspraak."
       buttons={[{ text: "Kom vandaag nog langs", href: "#contact" }]}
       imageSrc="https://img.freepik.com/free-photo/handsome-man-getting-haircut-barbershop_23-2148506245.jpg"
       imageAlt="Luxe kapperservaring"
