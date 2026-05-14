@@ -171,7 +171,7 @@ export default function LandingPage() {
         { title: "Contact", items: [{ label: "Locatie", href: "#contact" }, { label: "Inloop", href: "#" }] },
       ]}
       logoText="Harun The Barber"
-      copyrightText="© 2025 harunthebarber.be"
+      copyrightText="© 2026 harunthebarber.be"
     />
   </div>
       </ReactLenis>
