@@ -38,7 +38,6 @@ export default function LandingPage() {
         { name: "Team", id: "team" },
         { name: "Contact", id: "contact" },
       ]}
-      brandName="Hallo! Harun The Barber"
     />
   </div>
 
